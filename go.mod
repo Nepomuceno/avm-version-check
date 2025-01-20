@@ -1,4 +1,4 @@
-module github.com/nepomuceno/avm-version-checker
+module github.com/nepomuceno/avm-version-check
 
 go 1.23.4
 
